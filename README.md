@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jowin John Chemban</h1>
-<h3 align="center">An enthusiastic engineering professional skilled in coding, cyber security, system/network administration, managerial roles and have good proficiency in programming languages like C, C++, Python, .. Being a technophile, I'm passionate about Artificial Intelligence, Machine Learning, Robotics, IoT, Cyber Forensics and also talented in media designing/creation/editing/production related activities.</h3>
+<p align="center" color="black">An enthusiastic engineering professional skilled in coding, cyber security, system/network administration, managerial roles and have good proficiency in programming languages like C, C++, Python, .. Being a technophile, I'm passionate about Artificial Intelligence, Machine Learning, Robotics, IoT, Cyber Forensics and also talented in media designing/creation/editing/production related activities.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jowinjohnchemban&label=Profile%20views&color=0e75b6&style=flat" alt="jowinjohnchemban" /> </p>
 
