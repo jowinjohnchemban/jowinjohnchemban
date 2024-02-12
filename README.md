@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jowinchemban" target="blank"><img src="https://img.shields.io/twitter/follow/jowinchemban?logo=twitter&style=for-the-badge" alt="jowinchemban" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud, AI/ML**
+- 🌱 I’m currently learning **Systems, Networks, Cloud, AI/ML**
 
 - 💬 Ask me about **Systems, Networks, Cloud, Linux, Code, AI, ML, Electronics, Security,Tech**
 
