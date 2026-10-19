@@ -84,7 +84,9 @@ export default {
     exclude: [], // e.g. ['HTML', 'CSS'] to leave markup out of the language charts
   },
 
+  // Dates and the "last changed" time in the footer use these.
   timeZone: 'Asia/Kolkata',
+  locale: 'en-IN',
 
   // Card colors. `series` is a colorblind-checked categorical order: keep the order if you change it.
   themes: {

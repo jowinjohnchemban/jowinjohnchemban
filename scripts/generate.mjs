@@ -3,7 +3,7 @@
 // No dependencies: needs Node 18+ (built-in fetch) and a GitHub token in GH_TOKEN.
 // Private repos appear only if the token can see them, and then only by name and language.
 
-import { writeFile, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import config from '../config.js';
@@ -687,7 +687,7 @@ ${rows}`;
 }
 
 function formatDate(iso, opts = { day: 'numeric', month: 'short', year: 'numeric' }) {
-  return new Intl.DateTimeFormat('en-GB', { ...opts, timeZone: config.timeZone }).format(new Date(iso));
+  return new Intl.DateTimeFormat(config.locale, { ...opts, timeZone: config.timeZone }).format(new Date(iso));
 }
 
 // ---------------------------------------------------------------- readme --
@@ -756,9 +756,21 @@ export function buildReadme(s, o) {
     if (o.recent.length) out.push('**Recent activity**', openSourceList(o));
   }
   if (on.projects && s.projects.length) out.push('## Recently active projects', projectsList(s.projects));
-  out.push(`<p align="center"><sub>Built from <a href="config.js">config.js</a> and refreshed automatically · last updated ${formatDate(new Date().toISOString())}</sub></p>`);
+  out.push(footer(repo, new Date()));
   return `${out.join('\n\n')}\n`;
 }
+
+function footer(repo, when) {
+  const stamp = formatDate(when.toISOString(), {
+    day: 'numeric', month: 'short', year: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
+  });
+  return `<p align="center"><sub>
+⚡ Refreshed every 6 hours by <a href="https://github.com/${repo}/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->${stamp}<!-- /stamp --> · <a href="https://github.com/${repo}/fork">Fork it</a> to make your own
+</sub></p>`;
+}
+
+// The timestamp alone is not a change worth a commit.
+const withoutStamp = (readme) => readme.replace(/<!-- stamp -->[\s\S]*?<!-- \/stamp -->/, '');
 
 // ------------------------------------------------------------------ main --
 
@@ -774,12 +786,21 @@ export async function writeAll(s, o) {
     journey: (t) => journeyCard(t, s),
     ...(o && { opensource: (t) => openSourceCard(t, o) }),
   };
+  let changed = false;
+  const write = async (file, content) => {
+    if ((await readFile(file, 'utf8').catch(() => null)) === content) return;
+    await writeFile(file, content);
+    changed = true;
+  };
   for (const [mode, t] of Object.entries(config.themes)) {
     for (const [name, render] of Object.entries(cards)) {
-      await writeFile(path.join(ASSETS, `${name}-${mode}.svg`), render(t));
+      await write(path.join(ASSETS, `${name}-${mode}.svg`), render(t));
     }
   }
-  await writeFile(README, buildReadme(s, o));
+  // Rewrite the README (and so its timestamp) only when the cards or its content really changed.
+  const readme = buildReadme(s, o);
+  const current = await readFile(README, 'utf8').catch(() => '');
+  if (changed || withoutStamp(current) !== withoutStamp(readme)) await writeFile(README, readme);
 }
 
 async function main() {
