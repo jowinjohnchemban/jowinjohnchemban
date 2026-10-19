@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-label="Contribution trend. By year: 2017 1, 2018 36, 2019 85, 2020 98, 2021 53, 2022 98, 2023 183, 2024 53, 2025 127, 2026 563. Past year by type: Commits 658, Pull requests 2, Issues 1, Code reviews 0, New repos 7">
-<title>Contribution trend. By year: 2017 1, 2018 36, 2019 85, 2020 98, 2021 53, 2022 98, 2023 183, 2024 53, 2025 127, 2026 563. Past year by type: Commits 658, Pull requests 2, Issues 1, Code reviews 0, New repos 7</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-label="Contribution trend. By year: 2017 1, 2018 36, 2019 85, 2020 98, 2021 53, 2022 98, 2023 183, 2024 53, 2025 127, 2026 563. Past year by type: Commits 56, Pull requests 2, Issues 1, Code reviews 0, New repos 20, Private work 589">
+<title>Contribution trend. By year: 2017 1, 2018 36, 2019 85, 2020 98, 2021 53, 2022 98, 2023 183, 2024 53, 2025 127, 2026 563. Past year by type: Commits 56, Pull requests 2, Issues 1, Code reviews 0, New repos 20, Private work 589</title>
 <style>
 text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #1f2328; }
 .muted { fill: #59636e; }
@@ -46,9 +46,10 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <circle cx="480" cy="175.6" r="9" fill="transparent"><title>2026: 563</title></circle>
 <line x1="530" y1="66" x2="530" y2="288" stroke="#d0d7de"/>
 <text class="k muted" x="562" y="80">Past year, by type</text>
-<text class="row" x="562" y="109">Commits</text><path d="M678,98H874Q878,98 878,102V106Q878,110 874,110H678Z" fill="#0969da"/><text class="val" x="886" y="109">658</text>
-<text class="row" x="562" y="141">Pull requests</text><path d="M678,130H678Q678.6,130 678.6,130.6V141.4Q678.6,142 678,142H678Z" fill="#0969da"/><text class="val" x="686.6" y="141">2</text>
-<text class="row" x="562" y="173">Issues</text><path d="M678,162H678Q678.3,162 678.3,162.3V173.7Q678.3,174 678,174H678Z" fill="#0969da"/><text class="val" x="686.3" y="173">1</text>
-<text class="row" x="562" y="205">Code reviews</text><text class="val" x="686" y="205">0</text>
-<text class="row" x="562" y="237">New repos</text><path d="M678,226H678Q680.1,226 680.1,228.1V235.9Q680.1,238 678,238H678Z" fill="#0969da"/><text class="val" x="688.1" y="237">7</text>
+<text class="row" x="562" y="109">Commits</text><path d="M678,98H693Q697,98 697,102V106Q697,110 693,110H678Z" fill="#0969da"/><text class="val" x="705" y="109">56</text>
+<text class="row" x="562" y="135">Pull requests</text><path d="M678,124H678Q678.7,124 678.7,124.7V135.3Q678.7,136 678,136H678Z" fill="#0969da"/><text class="val" x="686.7" y="135">2</text>
+<text class="row" x="562" y="161">Issues</text><path d="M678,150H678Q678.3,150 678.3,150.3V161.7Q678.3,162 678,162H678Z" fill="#0969da"/><text class="val" x="686.3" y="161">1</text>
+<text class="row" x="562" y="187">Code reviews</text><text class="val" x="686" y="187">0</text>
+<text class="row" x="562" y="213">New repos</text><path d="M678,202H680.8Q684.8,202 684.8,206V210Q684.8,214 680.8,214H678Z" fill="#0969da"/><text class="val" x="692.8" y="213">20</text>
+<text class="row" x="562" y="239">Private work</text><path d="M678,228H874Q878,228 878,232V236Q878,240 874,240H678Z" fill="#0969da"/><text class="val" x="886" y="239">589</text>
 </svg>
