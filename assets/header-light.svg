@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Jowin John Chemban: Cloud Solutions · Systems · Network Engineering, Security · Full-Stack Development, DevOps · Platform Engineering · Automation · CI/CD, Linux · Windows · AWS · Azure · GCP · Cloudflare">
+<title>Jowin John Chemban: Cloud Solutions · Systems · Network Engineering, Security · Full-Stack Development, DevOps · Platform Engineering · Automation · CI/CD, Linux · Windows · AWS · Azure · GCP · Cloudflare</title>
+<style>
+text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #1f2328; }
+.muted { fill: #59636e; }
+.h { font-size: 19px; font-weight: 600; }
+
+.hi { font-size: 22px; }
+.name { font-size: 52px; font-weight: 700; letter-spacing: -0.5px; fill: url(#grad); }
+.role { font-size: 24px; font-weight: 500; opacity: 0; animation: cycle 12.8s ease-in-out infinite both; }
+.r0 { opacity: 1; }
+.prompt { font-family: ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace; font-size: 22px; fill: #0969da; }
+.meta { font-size: 15px; }
+.edge { stroke: #d0d7de; stroke-width: 1.5; animation: glow 3.5s ease-in-out infinite both; }
+.node { fill: #0969da; animation: pulse 3.2s ease-in-out infinite both; }
+@keyframes cycle {
+  0% { opacity: 0; transform: translateY(10px); }
+  3.00% { opacity: 1; transform: translateY(0); }
+  21.25% { opacity: 1; transform: translateY(0); }
+  25.00% { opacity: 0; transform: translateY(-10px); }
+  100% { opacity: 0; }
+}
+@keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+@keyframes glow { 0%, 100% { stroke: #d0d7de; } 50% { stroke: #0969da; } }
+@media (prefers-reduced-motion: reduce) { .role { opacity: 0; } .r0 { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="999" height="249" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+<defs><linearGradient id="grad" x1="0" x2="1"><stop offset="0" stop-color="#0969da"/><stop offset="1" stop-color="#8250df"/></linearGradient></defs>
+<text class="hi muted" x="48" y="70">Hi there, I'm</text>
+<text class="name" x="46" y="126">Jowin John Chemban</text>
+<text class="prompt" x="30" y="178">›</text>
+<text class="role r0" x="56" y="178" style="animation-delay:0.0s">Cloud Solutions · Systems · Network Engineering</text>
+<text class="role r1" x="56" y="178" style="animation-delay:3.2s">Security · Full-Stack Development</text>
+<text class="role r2" x="56" y="178" style="animation-delay:6.4s">DevOps · Platform Engineering · Automation · CI/CD</text>
+<text class="role r3" x="56" y="178" style="animation-delay:9.6s">Linux · Windows · AWS · Azure · GCP · Cloudflare</text>
+<text class="meta muted" x="48" y="222">Kerala, India  ·  jowinjc.in</text>
+<line class="edge" x1="800" y1="70" x2="880" y2="52" style="animation-delay:0.00s"/>
+<line class="edge" x1="880" y1="52" x2="940" y2="110" style="animation-delay:0.35s"/>
+<line class="edge" x1="800" y1="70" x2="860" y2="128" style="animation-delay:0.70s"/>
+<line class="edge" x1="880" y1="52" x2="860" y2="128" style="animation-delay:1.05s"/>
+<line class="edge" x1="940" y1="110" x2="860" y2="128" style="animation-delay:1.40s"/>
+<line class="edge" x1="860" y1="128" x2="790" y2="160" style="animation-delay:1.75s"/>
+<line class="edge" x1="860" y1="128" x2="900" y2="188" style="animation-delay:2.10s"/>
+<line class="edge" x1="940" y1="110" x2="960" y2="170" style="animation-delay:2.45s"/>
+<line class="edge" x1="900" y1="188" x2="960" y2="170" style="animation-delay:2.80s"/>
+<line class="edge" x1="790" y1="160" x2="900" y2="188" style="animation-delay:3.15s"/>
+<circle class="node" cx="800" cy="70" r="5" style="animation-delay:0.00s"/>
+<circle class="node" cx="880" cy="52" r="5" style="animation-delay:0.45s"/>
+<circle class="node" cx="940" cy="110" r="5" style="animation-delay:0.90s"/>
+<circle class="node" cx="860" cy="128" r="7" style="animation-delay:1.35s"/>
+<circle class="node" cx="790" cy="160" r="5" style="animation-delay:1.80s"/>
+<circle class="node" cx="900" cy="188" r="5" style="animation-delay:2.25s"/>
+<circle class="node" cx="960" cy="170" r="5" style="animation-delay:2.70s"/>
+</svg>

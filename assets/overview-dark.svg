@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="344" viewBox="0 0 1000 344" role="img" aria-label="GitHub stats. Total contributions: 1296, Past year: 667, Current streak: 0, Longest streak: 9, Stars earned: 75, Original repos: 44, Pull requests: 0, Followers: 17. Top languages: HTML 92.2%, TypeScript 5.6%, JavaScript 1.6%, Other 0.5%">
+<title>GitHub stats. Total contributions: 1296, Past year: 667, Current streak: 0, Longest streak: 9, Stars earned: 75, Original repos: 44, Pull requests: 0, Followers: 17. Top languages: HTML 92.2%, TypeScript 5.6%, JavaScript 1.6%, Other 0.5%</title>
+<style>
+text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
+.muted { fill: #9198a1; }
+.h { font-size: 19px; font-weight: 600; }
+
+.label { font-size: 13px; letter-spacing: 0.3px; }
+.value { font-size: 26px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.unit { font-size: 15px; font-weight: 400; }
+.lang { font-size: 14px; }
+.sub { font-size: 13px; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="999" height="343" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text class="h" x="32" y="42">GitHub at a glance</text>
+<text class="sub muted" x="32" y="322">On GitHub since 2017 · public activity</text>
+<text class="label muted" x="32" y="80">Total contributions</text><text class="value" x="32" y="108">1,296<tspan class="unit muted"></tspan></text>
+<text class="label muted" x="272" y="80">Past year</text><text class="value" x="272" y="108">667<tspan class="unit muted"></tspan></text>
+<text class="label muted" x="32" y="138">Current streak</text><text class="value" x="32" y="166">0<tspan class="unit muted"> days</tspan></text>
+<text class="label muted" x="272" y="138">Longest streak</text><text class="value" x="272" y="166">9<tspan class="unit muted"> days</tspan></text>
+<text class="label muted" x="32" y="196">Stars earned</text><text class="value" x="32" y="224">75<tspan class="unit muted"></tspan></text>
+<text class="label muted" x="272" y="196">Original repos</text><text class="value" x="272" y="224">44<tspan class="unit muted"></tspan></text>
+<text class="label muted" x="32" y="254">Pull requests</text><text class="value" x="32" y="282">0<tspan class="unit muted"></tspan></text>
+<text class="label muted" x="272" y="254">Followers</text><text class="value" x="272" y="282">17<tspan class="unit muted"></tspan></text>
+<line x1="524" y1="32" x2="524" y2="312" stroke="#30363d"/>
+<text class="h" x="556" y="42">Top languages</text>
+<clipPath id="bar"><rect x="556" y="74" width="412" height="12" rx="6"/></clipPath>
+<rect x="556" y="74" width="412" height="12" rx="6" fill="#161b22"/>
+<g clip-path="url(#bar)"><rect x="556.00" y="74" width="380.07" height="12" fill="#e34c26"/><rect x="936.07" y="74" width="23.11" height="12" fill="#3178c6"/><rect x="959.18" y="74" width="6.74" height="12" fill="#f1e05a"/><rect x="965.92" y="74" width="2.08" height="12" fill="#6e7681"/></g>
+<circle cx="562" cy="117" r="6" fill="#e34c26"/><text class="lang" x="576" y="122">HTML <tspan class="muted">92%</tspan></text>
+<circle cx="772" cy="117" r="6" fill="#3178c6"/><text class="lang" x="786" y="122">TypeScript <tspan class="muted">5.6%</tspan></text>
+<circle cx="562" cy="151" r="6" fill="#f1e05a"/><text class="lang" x="576" y="156">JavaScript <tspan class="muted">1.6%</tspan></text>
+<circle cx="772" cy="151" r="6" fill="#6e7681"/><text class="lang" x="786" y="156">Other <tspan class="muted">0.5%</tspan></text>
+</svg>

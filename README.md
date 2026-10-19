@@ -1,38 +1,76 @@
-<h1 align="center">Hi 👋, I'm Jowin John Chemban</h1>
-<p align="center" color="black">An enthusiastic engineering professional skilled in coding, cyber security, system/network administration, managerial roles and have good proficiency in programming languages like C, C++, Python, .. Being a technophile, I'm passionate about Artificial Intelligence, Machine Learning, Robotics, IoT, Cyber Forensics and also talented in media designing/creation/editing/production related activities.</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jowinjohnchemban/jowinjohnchemban/main/assets/header-dark.svg">
+  <img alt="Jowin John Chemban: cloud, systems, networks, security, DevOps and full-stack development" src="https://raw.githubusercontent.com/jowinjohnchemban/jowinjohnchemban/main/assets/header-light.svg" width="100%">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jowinjohnchemban&label=Profile%20views&color=0e75b6&style=flat" alt="jowinjohnchemban" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jowinjohnchemban" alt="jowinjohnchemban" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jowinchemban" target="blank"><img src="https://img.shields.io/twitter/follow/jowinchemban?logo=twitter&style=for-the-badge" alt="jowinchemban" /></a> </p>
-
-- 🌱 I’m currently learning **Systems, Networks, Cloud, AI/ML**
-
-- 💬 Ask me about **Systems, Networks, Cloud, Linux, Code, AI, ML, Electronics, Security,Tech**
-
-- 📫 How to reach me **jowinchemban@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/jjcresume](https://bit.ly/jjcresume)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/jowinjohnchemban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jowinjohnchemban" height="30" width="40" /></a>
-<a href="https://dev.to/jowinjohnchemban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jowinjohnchemban" height="30" width="40" /></a>
-<a href="https://twitter.com/jowinchemban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jowinchemban" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jowinjohnchemban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jowinjohnchemban" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jowinjohnchemban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jowinjohnchemban" height="30" width="40" /></a>
-<a href="https://kaggle.com/jowinjohnchemban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jowinjohnchemban" height="30" width="40" /></a>
-<a href="https://instagram.com/jowinjohnchemban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jowinjohnchemban" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jowinjohnchemban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jowinjohnchemban" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jowinjohnchemban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jowinjohnchemban" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://jowinjc.in"><b>Website</b></a> ·
+  <a href="https://linkedin.com/in/jowinjohnchemban"><b>LinkedIn</b></a> ·
+  <a href="https://www.youtube.com/@jowinjohnchemban">YouTube</a> ·
+  <a href="https://x.com/jowinchemban">X</a> ·
+  <a href="https://www.kaggle.com/jowinjohnchemban">Kaggle</a> ·
+  <a href="https://www.hackerrank.com/profile/jowinjohnchemban">HackerRank</a> ·
+  <a href="https://codepen.io/jowinjohnchemban">CodePen</a> ·
+  <a href="https://dev.to/jowinjohnchemban">DEV</a> ·
+  <a href="https://www.instagram.com/jowinjohnchemban">Instagram</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jowinjohnchemban&show_icons=true&locale=en&layout=compact" alt="jowinjohnchemban" /></p>
+I design, build and support secure, scalable and reliable technology environments. My work spans computing platforms, systems design and administration, network engineering, security, DevOps, infrastructure automation and software development, so I can bridge the gap between infrastructure, applications and modern platforms.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jowinjohnchemban&show_icons=true&locale=en" alt="jowinjohnchemban" /></p>
+I like solving technical problems by making systems more reliable, secure and efficient, through automation, optimisation and careful engineering. Whether it's infrastructure, enterprise systems, networking or application development, I aim for solutions that are practical, scalable, maintainable and resilient.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jowinjohnchemban&" alt="jowinjohnchemban" /></p>
+Outside work, I build personal projects: utility tools, system customisation, electronics and embedded gadgets, automation and native apps, often in support of a meaningful cause. I'm also into wireless technology, hardware security, telecommunications, reverse engineering, protocol analysis, digital forensics, intelligence and applied security research.
+
+- 🧭 **Core expertise:** cloud computing (AWS · Azure · Google Cloud) · IT infrastructure · systems administration · Linux · network engineering · DevOps · CI/CD · automation · security · full-stack development · AI/LLM prompting
+- 🌱 **What I value:** curiosity, continuous learning, and technology that's secure, scalable and built to last
+- 💼 **Open to:** opportunities to contribute, learn and grow on meaningful engineering challenges
+- 📍 **Based in:** Kerala, India
+- 🤝 **Get in touch:** [jowinjc.in/connect](https://jowinjc.in/connect)
+
+## Tech stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jowinjohnchemban/jowinjohnchemban/main/assets/stack-dark.svg">
+  <img alt="Tech stack. Cloud: AWS, Azure, Google Cloud, Cloudflare, Firebase. Infrastructure: Linux, Windows, networking, security. DevOps: Docker, Git, CI/CD, Bash, Selenium. Development: C, C++, Python, JavaScript, TypeScript, HTML. Data and AI: TensorFlow, OpenCV, MySQL, SQL Server, Chart.js, LLM prompting. Design: Photoshop, Illustrator" src="https://raw.githubusercontent.com/jowinjohnchemban/jowinjohnchemban/main/assets/stack-light.svg" width="100%">
+</picture>
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jowinjohnchemban/jowinjohnchemban/main/assets/overview-dark.svg">
+  <img alt="GitHub stats and top languages" src="https://raw.githubusercontent.com/jowinjohnchemban/jowinjohnchemban/main/assets/overview-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jowinjohnchemban/jowinjohnchemban/main/assets/contributions-dark.svg">
+  <img alt="Contribution calendar for the last year" src="https://raw.githubusercontent.com/jowinjohnchemban/jowinjohnchemban/main/assets/contributions-light.svg" width="100%">
+</picture>
+
+## Recently active projects
+
+<!-- START:projects -->
+- **[GeoLite.mmdb](https://github.com/jowinjohnchemban/GeoLite.mmdb)** — Automated distribution of MaxMind GeoLite2 ASN, City and Country MMDB databases with scheduled updates via GitHub Actions.
+- **[ble-ecu-reader-web](https://github.com/jowinjohnchemban/ble-ecu-reader-web)** · JavaScript
+- **[qackon](https://github.com/jowinjohnchemban/qackon)** · C++ — Qackon is a durable open source safety beacon/tracking for automotive and personal use. It uses GPS for precise location pinpointing, Bluet…
+- **[pecom](https://github.com/jowinjohnchemban/pecom)** · TypeScript
+- **[nextjs-ecom](https://github.com/jowinjohnchemban/nextjs-ecom)** · TypeScript
+- **[nextjs-dockerize](https://github.com/jowinjohnchemban/nextjs-dockerize)** · JavaScript
+<!-- END:projects -->
+
+## Latest on YouTube
+
+<!-- START:videos -->
+- [Easter Resurrection Audio EFX \| ഈസ്റ്റർ ഉയിർപ്പ് സൗണ്ട് \| Malayalam](https://www.youtube.com/watch?v=ZkAO1v165v0) · Apr 2025
+- [Jowin John Chemban Live Stream](https://www.youtube.com/watch?v=QSBUbr-nPjs) · Jun 2023
+- [2:00:01 Video \| #Like #Share #Subscribe](https://www.youtube.com/watch?v=XCsKYTiOZ94) · Aug 2021
+- [How to restrict access to website/URL in router or ONT/modem](https://www.youtube.com/watch?v=oTpmzgJJNec) · Aug 2021
+- [How to flash stock ROM in Android Smartphone using SP Flash Tool](https://www.youtube.com/watch?v=CBi_bWdF4GQ) · Jul 2018
+<!-- END:videos -->
+
+<p align="center">
+<!-- START:updated -->
+<sub>Cards and lists refresh automatically · last updated 19 Oct 2026</sub>
+<!-- END:updated -->
+</p>
