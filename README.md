@@ -91,4 +91,6 @@ Outside work, I build personal projects: utility tools, system customisation, el
 - **[nextjs-ecom](https://github.com/jowinjohnchemban/nextjs-ecom)** · TypeScript
 - **[nextjs-dockerize](https://github.com/jowinjohnchemban/nextjs-dockerize)** · JavaScript
 
-<p align="center"><sub>Built from <a href="config.js">config.js</a> and refreshed automatically · last updated 19 Oct 2026</sub></p>
+<p align="center"><sub>
+⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->19 Oct 2026, 11:00 pm IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
+</sub></p>
