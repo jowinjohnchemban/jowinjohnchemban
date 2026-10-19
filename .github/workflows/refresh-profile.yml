@@ -7,6 +7,7 @@ on:
   push:
     branches: [main]
     paths:
+      - 'config.js'
       - 'scripts/**'
       - '.github/workflows/refresh-profile.yml'
 
@@ -27,7 +28,8 @@ jobs:
       - name: Generate cards and sections
         run: node scripts/generate.mjs
         env:
-          # Add a PROFILE_TOKEN secret (fine-grained, read-only) to include private contributions.
+          # Optional: a PROFILE_TOKEN secret (fine-grained, read-only, all repositories) adds
+          # private contributions and private repos (shown by name only) to the profile.
           GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
           GH_LOGIN: ${{ github.repository_owner }}
 

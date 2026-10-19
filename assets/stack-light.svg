@@ -4,43 +4,47 @@
 text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #1f2328; }
 .muted { fill: #59636e; }
 .h { font-size: 19px; font-weight: 600; }
+.k { font-size: 13px; font-weight: 600; letter-spacing: 0.2px; }
+.axis { font-size: 12px; }
+.val { font-size: 12px; font-weight: 600; }
+.row { font-size: 14px; }
 .group { font-size: 15px; font-weight: 600; } .pill { font-size: 14px; text-anchor: middle; }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
 <rect x="0.5" y="0.5" width="999" height="371" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 <text class="h" x="32" y="40">Tech stack</text>
 <text class="group muted" x="32" y="76">Cloud</text>
-<g transform="translate(180.0,55)"><rect width="46.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="23.3" y="21">AWS</text></g>
-<g transform="translate(236.6,55)"><rect width="63.0" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">Azure</text></g>
+<g transform="translate(180,55)"><rect width="46.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="23.3" y="21">AWS</text></g>
+<g transform="translate(236.6,55)"><rect width="63" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">Azure</text></g>
 <g transform="translate(309.6,55)"><rect width="120.4" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="60.2" y="21">Google Cloud</text></g>
-<g transform="translate(440.0,55)"><rect width="104.0" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52.0" y="21">Cloudflare</text></g>
-<g transform="translate(554.0,55)"><rect width="87.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="43.8" y="21">Firebase</text></g>
+<g transform="translate(440,55)"><rect width="104" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52" y="21">Cloudflare</text></g>
+<g transform="translate(554,55)"><rect width="87.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="43.8" y="21">Firebase</text></g>
 <text class="group muted" x="32" y="126">Infrastructure</text>
-<g transform="translate(180.0,105)"><rect width="63.0" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">Linux</text></g>
-<g transform="translate(253.0,105)"><rect width="79.4" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="39.7" y="21">Windows</text></g>
-<g transform="translate(342.4,105)"><rect width="104.0" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52.0" y="21">Networking</text></g>
+<g transform="translate(180,105)"><rect width="63" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">Linux</text></g>
+<g transform="translate(253,105)"><rect width="79.4" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="39.7" y="21">Windows</text></g>
+<g transform="translate(342.4,105)"><rect width="104" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52" y="21">Networking</text></g>
 <g transform="translate(456.4,105)"><rect width="87.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="43.8" y="21">Security</text></g>
 <text class="group muted" x="32" y="176">DevOps</text>
-<g transform="translate(180.0,155)"><rect width="71.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="35.6" y="21">Docker</text></g>
+<g transform="translate(180,155)"><rect width="71.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="35.6" y="21">Docker</text></g>
 <g transform="translate(261.2,155)"><rect width="46.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="23.3" y="21">Git</text></g>
-<g transform="translate(317.8,155)"><rect width="63.0" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">CI/CD</text></g>
+<g transform="translate(317.8,155)"><rect width="63" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">CI/CD</text></g>
 <g transform="translate(390.8,155)"><rect width="54.8" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="27.4" y="21">Bash</text></g>
 <g transform="translate(455.6,155)"><rect width="87.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="43.8" y="21">Selenium</text></g>
 <text class="group muted" x="32" y="226">Development</text>
-<g transform="translate(180.0,205)"><rect width="30.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="15.1" y="21">C</text></g>
+<g transform="translate(180,205)"><rect width="30.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="15.1" y="21">C</text></g>
 <g transform="translate(220.2,205)"><rect width="46.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="23.3" y="21">C++</text></g>
 <g transform="translate(276.8,205)"><rect width="71.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="35.6" y="21">Python</text></g>
-<g transform="translate(358.0,205)"><rect width="104.0" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52.0" y="21">JavaScript</text></g>
-<g transform="translate(472.0,205)"><rect width="104.0" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52.0" y="21">TypeScript</text></g>
-<g transform="translate(586.0,205)"><rect width="54.8" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="27.4" y="21">HTML</text></g>
+<g transform="translate(358,205)"><rect width="104" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52" y="21">JavaScript</text></g>
+<g transform="translate(472,205)"><rect width="104" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52" y="21">TypeScript</text></g>
+<g transform="translate(586,205)"><rect width="54.8" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="27.4" y="21">HTML</text></g>
 <text class="group muted" x="32" y="276">Data &#38; AI</text>
-<g transform="translate(180.0,255)"><rect width="104.0" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52.0" y="21">TensorFlow</text></g>
-<g transform="translate(294.0,255)"><rect width="71.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="35.6" y="21">OpenCV</text></g>
-<g transform="translate(375.2,255)"><rect width="63.0" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">MySQL</text></g>
-<g transform="translate(448.2,255)"><rect width="104.0" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52.0" y="21">SQL Server</text></g>
+<g transform="translate(180,255)"><rect width="104" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52" y="21">TensorFlow</text></g>
+<g transform="translate(294,255)"><rect width="71.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="35.6" y="21">OpenCV</text></g>
+<g transform="translate(375.2,255)"><rect width="63" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">MySQL</text></g>
+<g transform="translate(448.2,255)"><rect width="104" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52" y="21">SQL Server</text></g>
 <g transform="translate(562.2,255)"><rect width="87.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="43.8" y="21">Chart.js</text></g>
 <g transform="translate(659.8,255)"><rect width="128.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="64.3" y="21">LLM prompting</text></g>
 <text class="group muted" x="32" y="326">Design</text>
-<g transform="translate(180.0,305)"><rect width="95.8" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="47.9" y="21">Photoshop</text></g>
+<g transform="translate(180,305)"><rect width="95.8" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="47.9" y="21">Photoshop</text></g>
 <g transform="translate(285.8,305)"><rect width="112.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="56.1" y="21">Illustrator</text></g>
 </svg>

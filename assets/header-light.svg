@@ -4,6 +4,10 @@
 text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #1f2328; }
 .muted { fill: #59636e; }
 .h { font-size: 19px; font-weight: 600; }
+.k { font-size: 13px; font-weight: 600; letter-spacing: 0.2px; }
+.axis { font-size: 12px; }
+.val { font-size: 12px; font-weight: 600; }
+.row { font-size: 14px; }
 
 .hi { font-size: 22px; }
 .name { font-size: 52px; font-weight: 700; letter-spacing: -0.5px; fill: url(#grad); }
@@ -27,7 +31,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 </style>
 <rect x="0.5" y="0.5" width="999" height="249" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 <defs><linearGradient id="grad" x1="0" x2="1"><stop offset="0" stop-color="#0969da"/><stop offset="1" stop-color="#8250df"/></linearGradient></defs>
-<text class="hi muted" x="48" y="70">Hi there, I'm</text>
+<text class="hi muted" x="48" y="70">Hi there, I&#39;m</text>
 <text class="name" x="46" y="126">Jowin John Chemban</text>
 <text class="prompt" x="30" y="178">›</text>
 <text class="role r0" x="56" y="178" style="animation-delay:0.0s">Cloud Solutions · Systems · Network Engineering</text>

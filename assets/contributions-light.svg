@@ -1,11 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="261" viewBox="0 0 1000 261" role="img" aria-label="667 contributions in the last year, 83 active days">
-<title>667 contributions in the last year, 83 active days</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="261" viewBox="0 0 1000 261" role="img" aria-label="668 contributions in the last year, 83 active days">
+<title>668 contributions in the last year, 83 active days</title>
 <style>
 text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #1f2328; }
 .muted { fill: #59636e; }
 .h { font-size: 19px; font-weight: 600; }
-
+.k { font-size: 13px; font-weight: 600; letter-spacing: 0.2px; }
 .axis { font-size: 12px; }
+.val { font-size: 12px; font-weight: 600; }
+.row { font-size: 14px; }
+
 .sum { font-size: 14px; }
 .scan { animation: scan 6s ease-in-out infinite; }
 @keyframes scan { 0% { transform: translateX(0); opacity: 0; } 15%, 85% { opacity: 1; } 100% { transform: translateX(898px); opacity: 0; } }
@@ -13,7 +16,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 </style>
 <rect x="0.5" y="0.5" width="999" height="260" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 <text class="h" x="32" y="42">Contributions in the last year</text>
-<text class="sum muted" x="968" y="42" text-anchor="end">667 contributions · 83 active days</text>
+<text class="sum muted" x="968" y="42" text-anchor="end">668 contributions · 83 active days</text>
 <text class="axis muted" x="104" y="76">Nov</text>
 <text class="axis muted" x="189" y="76">Dec</text>
 <text class="axis muted" x="257" y="76">Jan</text>
@@ -394,7 +397,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <rect x="937" y="171" width="14" height="14" rx="3" fill="#eff2f5"><title>0 contributions on 2026-10-16</title></rect>
 <rect x="937" y="188" width="14" height="14" rx="3" fill="#eff2f5"><title>0 contributions on 2026-10-17</title></rect>
 <rect x="954" y="86" width="14" height="14" rx="3" fill="#eff2f5"><title>0 contributions on 2026-10-18</title></rect>
-<rect x="954" y="103" width="14" height="14" rx="3" fill="#2f7de8"><title>31 contributions on 2026-10-19</title></rect>
+<rect x="954" y="103" width="14" height="14" rx="3" fill="#2f7de8"><title>32 contributions on 2026-10-19</title></rect>
 <defs><linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#0969da" stop-opacity="0"/><stop offset="0.5" stop-color="#0969da" stop-opacity="0.22"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></linearGradient></defs>
 <rect class="scan" x="30" y="82" width="80" height="124" fill="url(#beam)" opacity="0" pointer-events="none"/>
 <text class="sum muted" x="70" y="235">Current streak 1 · longest 9 days · best day 48 on 13 Dec</text>

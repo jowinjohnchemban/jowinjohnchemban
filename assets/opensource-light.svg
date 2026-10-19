@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="402" viewBox="0 0 1000 402" role="img" aria-label="Open-source contributions. Pull requests: 37, Merged: 20, Merge rate: 77%, Issues opened: 8, Discussion posts: 0, Repositories: 29. Top repositories: akshaykadambatt/Snippets (7), alwinjohnchemban/code2021 (6), AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control (2), csehgae/mystrix-2020-website (2), jleyva/moodle-block_configurablereports (2), TheAlgorithms/Java (2)">
+<title>Open-source contributions. Pull requests: 37, Merged: 20, Merge rate: 77%, Issues opened: 8, Discussion posts: 0, Repositories: 29. Top repositories: akshaykadambatt/Snippets (7), alwinjohnchemban/code2021 (6), AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control (2), csehgae/mystrix-2020-website (2), jleyva/moodle-block_configurablereports (2), TheAlgorithms/Java (2)</title>
+<style>
+text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #1f2328; }
+.muted { fill: #59636e; }
+.h { font-size: 19px; font-weight: 600; }
+.k { font-size: 13px; font-weight: 600; letter-spacing: 0.2px; }
+.axis { font-size: 12px; }
+.val { font-size: 12px; font-weight: 600; }
+.row { font-size: 14px; }
+.label { font-size: 13px; letter-spacing: 0.3px; } .value { font-size: 26px; font-weight: 700; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="999" height="401" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+<text class="h" x="32" y="42">Open-source contributions</text>
+<text class="row muted" x="968" y="42" text-anchor="end">to repositories I don't own</text>
+<text class="label muted" x="32" y="84">Pull requests</text><text class="value" x="32" y="116">37</text>
+<text class="label muted" x="188" y="84">Merged</text><text class="value" x="188" y="116">20</text>
+<text class="label muted" x="344" y="84">Merge rate</text><text class="value" x="344" y="116">77%</text>
+<text class="label muted" x="500" y="84">Issues opened</text><text class="value" x="500" y="116">8</text>
+<text class="label muted" x="656" y="84">Discussion posts</text><text class="value" x="656" y="116">0</text>
+<text class="label muted" x="812" y="84">Repositories</text><text class="value" x="812" y="116">29</text>
+<line x1="32" y1="140" x2="968" y2="140" stroke="#d0d7de"/>
+<text class="k muted" x="32" y="172">Where I contribute most</text>
+<text class="row" x="32" y="207">akshaykadambatt/Snippets</text><path d="M332,196H728Q732,196 732,200V204Q732,208 728,208H332Z" fill="#0969da"/><text class="val" x="740" y="207">7 PRs</text>
+<text class="row" x="32" y="239">alwinjohnchemban/code2021</text><path d="M332,228H670.9Q674.9,228 674.9,232V236Q674.9,240 670.9,240H332Z" fill="#0969da"/><text class="val" x="682.9" y="239">6 PRs</text>
+<text class="row" x="32" y="271">AndreaVidali/Deep-QLearning-Agent…</text><path d="M332,260H442.3Q446.3,260 446.3,264V268Q446.3,272 442.3,272H332Z" fill="#0969da"/><text class="val" x="454.3" y="271">2 PRs</text>
+<text class="row" x="32" y="303">csehgae/mystrix-2020-website</text><path d="M332,292H442.3Q446.3,292 446.3,296V300Q446.3,304 442.3,304H332Z" fill="#0969da"/><text class="val" x="454.3" y="303">2 PRs</text>
+<text class="row" x="32" y="335">jleyva/moodle-block_configurabler…</text><path d="M332,324H442.3Q446.3,324 446.3,328V332Q446.3,336 442.3,336H332Z" fill="#0969da"/><text class="val" x="454.3" y="335">1 PR · 1 issue</text>
+<text class="row" x="32" y="367">TheAlgorithms/Java</text><path d="M332,356H442.3Q446.3,356 446.3,360V364Q446.3,368 442.3,368H332Z" fill="#0969da"/><text class="val" x="454.3" y="367">2 PRs</text>
+</svg>
