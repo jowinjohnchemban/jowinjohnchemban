@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="402" viewBox="0 0 1000 402" role="img" aria-label="Open-source contributions. Pull requests: 38, Merged: 20, Merge rate: 77%, Issues opened: 8, Discussion posts: 0, Repositories: 30. Top repositories: akshaykadambatt/Snippets (7), alwinjohnchemban/code2021 (6), AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control (2), csehgae/mystrix-2020-website (2), jleyva/moodle-block_configurablereports (2), TheAlgorithms/Java (2)">
-<title>Open-source contributions. Pull requests: 38, Merged: 20, Merge rate: 77%, Issues opened: 8, Discussion posts: 0, Repositories: 30. Top repositories: akshaykadambatt/Snippets (7), alwinjohnchemban/code2021 (6), AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control (2), csehgae/mystrix-2020-website (2), jleyva/moodle-block_configurablereports (2), TheAlgorithms/Java (2)</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="402" viewBox="0 0 1000 402" role="img" aria-label="Open-source contributions. Pull requests: 38, Merged: 21, Merge rate: 78%, Issues opened: 8, Discussion posts: 0, Repositories: 30. Top repositories: akshaykadambatt/Snippets (7), alwinjohnchemban/code2021 (6), AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control (2), csehgae/mystrix-2020-website (2), jleyva/moodle-block_configurablereports (2), TheAlgorithms/Java (2)">
+<title>Open-source contributions. Pull requests: 38, Merged: 21, Merge rate: 78%, Issues opened: 8, Discussion posts: 0, Repositories: 30. Top repositories: akshaykadambatt/Snippets (7), alwinjohnchemban/code2021 (6), AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control (2), csehgae/mystrix-2020-website (2), jleyva/moodle-block_configurablereports (2), TheAlgorithms/Java (2)</title>
 <style>
 text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
 .muted { fill: #9198a1; }
@@ -15,8 +15,8 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <text class="h" x="32" y="42">Open-source contributions</text>
 <text class="row muted" x="968" y="42" text-anchor="end">to repositories I don't own</text>
 <text class="label muted" x="32" y="84">Pull requests</text><text class="value" x="32" y="116">38</text>
-<text class="label muted" x="188" y="84">Merged</text><text class="value" x="188" y="116">20</text>
-<text class="label muted" x="344" y="84">Merge rate</text><text class="value" x="344" y="116">77%</text>
+<text class="label muted" x="188" y="84">Merged</text><text class="value" x="188" y="116">21</text>
+<text class="label muted" x="344" y="84">Merge rate</text><text class="value" x="344" y="116">78%</text>
 <text class="label muted" x="500" y="84">Issues opened</text><text class="value" x="500" y="116">8</text>
 <text class="label muted" x="656" y="84">Discussion posts</text><text class="value" x="656" y="116">0</text>
 <text class="label muted" x="812" y="84">Repositories</text><text class="value" x="812" y="116">30</text>
