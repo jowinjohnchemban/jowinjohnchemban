@@ -73,6 +73,7 @@ Outside work, I build personal projects: utility tools, system customisation, el
 
 **Recent activity**
 
+- 🟢 Open PR · [feat(sequencing): evaluate timeLimitExceeded and outsideAvailableTimeRange in rollup rules](https://github.com/jcputney/scorm-again/pull/1763) in [jcputney/scorm-again](https://github.com/jcputney/scorm-again) · Oct 2026
 - 🟢 Open PR · [Add "Meeting the conditions" enrol method with scheduled task](https://github.com/bobopinna/moodle-enrol_autoenrol/pull/75) in [bobopinna/moodle-enrol\_autoenrol](https://github.com/bobopinna/moodle-enrol_autoenrol) · Oct 2026
 - 🟢 Open PR · [Add scheduled and ad-hoc report emailing to predefined recipients](https://github.com/jleyva/moodle-block_configurablereports/pull/293) in [jleyva/moodle-block\_configurablereports](https://github.com/jleyva/moodle-block_configurablereports) · Oct 2026
 - 🟢 Open issue · [Windows AMD64 native binary crashes with STATUS\_ILLEGAL\_INSTRUCTION](https://github.com/floci-io/floci/issues/3832) in [floci-io/floci](https://github.com/floci-io/floci) · Sept 2026
@@ -80,17 +81,16 @@ Outside work, I build personal projects: utility tools, system customisation, el
 - 🟣 Merged PR · [Added മലയാളം Indian Language](https://github.com/localsend/website/pull/81) in [localsend/website](https://github.com/localsend/website) · Jul 2024
 - 🟣 Merged PR · [Added English(India) \| Create strings\_en\_IN.i18n.json](https://github.com/localsend/localsend/pull/1491) in [localsend/localsend](https://github.com/localsend/localsend) · Jul 2024
 - 🟢 Open PR · [Create python.md](https://github.com/akshaykadambatt/Snippets/pull/7) in [akshaykadambatt/Snippets](https://github.com/akshaykadambatt/Snippets) · Oct 2023
-- 🟢 Open PR · [Create data.md](https://github.com/ECTO-1A/AppleJuice/pull/34) in [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice) · Oct 2023
 
 ## Recently active projects
 
+- **[scormite](https://github.com/jowinjohnchemban/scormite)** · TypeScript — Test, debug, and validate SCORM 1.2 and 2004 packages in your browser — an LMS-faithful player, API log, CMI inspector, validation, and QA…
 - **[GeoLite.mmdb](https://github.com/jowinjohnchemban/GeoLite.mmdb)** — Automated distribution of MaxMind GeoLite2 ASN, City and Country MMDB databases with scheduled updates via GitHub Actions.
 - **[ble-ecu-reader-web](https://github.com/jowinjohnchemban/ble-ecu-reader-web)** · JavaScript
 - **[qackon](https://github.com/jowinjohnchemban/qackon)** · C++ — Qackon is a durable open source safety beacon/tracking for automotive and personal use. It uses GPS for precise location pinpointing, Bluet…
 - **[pecom](https://github.com/jowinjohnchemban/pecom)** · TypeScript
 - **[nextjs-ecom](https://github.com/jowinjohnchemban/nextjs-ecom)** · TypeScript
-- **[nextjs-dockerize](https://github.com/jowinjohnchemban/nextjs-dockerize)** · JavaScript
 
 <p align="center"><sub>
-⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->22 Oct 2026, 5:30 pm IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
+⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->22 Oct 2026, 10:45 pm IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
 </sub></p>

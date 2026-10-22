@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="506" viewBox="0 0 1000 506" role="img" aria-label="Learning journey: 13 languages and 40 topics. 2018: Python, C++, #2021, #audrino, #binwalk, #code, #hacktoberfest, #python, #windows; 2019: HTML, JavaScript, CSS, PHP, C, Hack, #blockchain, #blockchain-demos, #blockchain-technology, #c, #cpp, #go, #java, #php, #website; 2021: #captcha, #erp, #pos, #storedeskerp, #yolo, #yolov3; 2022: #aframe, #ar, #game, #gui, #qkrishi, #quantum, #stranded, #vr, #web, #youtube-dl; 2023: #android, #backup, #data, #sync; 2024: TypeScript, Batchfile, #beacon, #esp32, #gps, #qackon; 2026: Dockerfile, Shell, HCL">
-<title>Learning journey: 13 languages and 40 topics. 2018: Python, C++, #2021, #audrino, #binwalk, #code, #hacktoberfest, #python, #windows; 2019: HTML, JavaScript, CSS, PHP, C, Hack, #blockchain, #blockchain-demos, #blockchain-technology, #c, #cpp, #go, #java, #php, #website; 2021: #captcha, #erp, #pos, #storedeskerp, #yolo, #yolov3; 2022: #aframe, #ar, #game, #gui, #qkrishi, #quantum, #stranded, #vr, #web, #youtube-dl; 2023: #android, #backup, #data, #sync; 2024: TypeScript, Batchfile, #beacon, #esp32, #gps, #qackon; 2026: Dockerfile, Shell, HCL</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="506" viewBox="0 0 1000 506" role="img" aria-label="Learning journey: 13 languages and 55 topics. 2018: Python, C++, #2021, #audrino, #binwalk, #code, #hacktoberfest, #python, #windows; 2019: HTML, JavaScript, CSS, PHP, C, Hack, #blockchain, #blockchain-demos, #blockchain-technology, #c, #cpp, #go, #java, #php, #website; 2021: #captcha, #erp, #pos, #storedeskerp, #yolo, #yolov3; 2022: #aframe, #ar, #game, #gui, #qkrishi, #quantum, #stranded, #vr, #web, #youtube-dl; 2023: #android, #backup, #data, #sync; 2024: TypeScript, Batchfile, #beacon, #esp32, #gps, #qackon; 2026: Dockerfile, Shell, HCL, #e-learning, #elearning, #lms, #react, #scorm, #scorm-1-2, #scorm-2004, #scorm-again, #scorm-debugger, #scorm-player, #scorm12, #scorm2004, #scormite, #typescript, #vite">
+<title>Learning journey: 13 languages and 55 topics. 2018: Python, C++, #2021, #audrino, #binwalk, #code, #hacktoberfest, #python, #windows; 2019: HTML, JavaScript, CSS, PHP, C, Hack, #blockchain, #blockchain-demos, #blockchain-technology, #c, #cpp, #go, #java, #php, #website; 2021: #captcha, #erp, #pos, #storedeskerp, #yolo, #yolov3; 2022: #aframe, #ar, #game, #gui, #qkrishi, #quantum, #stranded, #vr, #web, #youtube-dl; 2023: #android, #backup, #data, #sync; 2024: TypeScript, Batchfile, #beacon, #esp32, #gps, #qackon; 2026: Dockerfile, Shell, HCL, #e-learning, #elearning, #lms, #react, #scorm, #scorm-1-2, #scorm-2004, #scorm-again, #scorm-debugger, #scorm-player, #scorm12, #scorm2004, #scormite, #typescript, #vite</title>
 <style>
 text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #1f2328; }
 .muted { fill: #59636e; }
@@ -13,47 +13,47 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 </style>
 <rect x="0.5" y="0.5" width="999" height="505" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 <text class="h" x="32" y="42">Learning journey</text>
-<text class="row muted" x="968" y="42" text-anchor="end">13 languages · 40 topics since 2017</text>
+<text class="row muted" x="968" y="42" text-anchor="end">13 languages · 55 topics since 2017</text>
 <text class="k muted" x="32" y="80">Learning curve: languages and topics so far</text>
 <line x1="70" y1="250" x2="400" y2="250" stroke="#d0d7de"/>
 <text class="axis muted" x="60" y="254" text-anchor="end">0</text>
 <line x1="70" y1="180" x2="400" y2="180" stroke="#f6f8fa"/>
-<text class="axis muted" x="60" y="184" text-anchor="end">25</text>
+<text class="axis muted" x="60" y="184" text-anchor="end">50</text>
 <line x1="70" y1="110" x2="400" y2="110" stroke="#f6f8fa"/>
-<text class="axis muted" x="60" y="114" text-anchor="end">50</text>
+<text class="axis muted" x="60" y="114" text-anchor="end">100</text>
 <text class="axis muted" x="106.7" y="270" text-anchor="middle">2018</text>
 <text class="axis muted" x="180" y="270" text-anchor="middle">2020</text>
 <text class="axis muted" x="253.3" y="270" text-anchor="middle">2022</text>
 <text class="axis muted" x="326.7" y="270" text-anchor="middle">2024</text>
 <text class="axis muted" x="400" y="270" text-anchor="middle">2026</text>
-<path class="line" d="M70,250L106.7,244.4L143.3,227.6L180,227.6L216.7,227.6L253.3,227.6L290,227.6L326.7,222L363.3,222L400,213.6" fill="none" stroke="#0969da" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="400" cy="213.6" r="4" fill="#0969da" stroke="#ffffff" stroke-width="2"/>
+<path class="line" d="M70,250L106.7,247.2L143.3,238.8L180,238.8L216.7,238.8L253.3,238.8L290,238.8L326.7,236L363.3,236L400,231.8" fill="none" stroke="#0969da" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="400" cy="231.8" r="4" fill="#0969da" stroke="#ffffff" stroke-width="2"/>
 <circle cx="70" cy="250" r="9" fill="transparent"><title>Languages · 2017: 0</title></circle>
-<circle cx="106.7" cy="244.4" r="9" fill="transparent"><title>Languages · 2018: 2</title></circle>
-<circle cx="143.3" cy="227.6" r="9" fill="transparent"><title>Languages · 2019: 8</title></circle>
-<circle cx="180" cy="227.6" r="9" fill="transparent"><title>Languages · 2020: 8</title></circle>
-<circle cx="216.7" cy="227.6" r="9" fill="transparent"><title>Languages · 2021: 8</title></circle>
-<circle cx="253.3" cy="227.6" r="9" fill="transparent"><title>Languages · 2022: 8</title></circle>
-<circle cx="290" cy="227.6" r="9" fill="transparent"><title>Languages · 2023: 8</title></circle>
-<circle cx="326.7" cy="222" r="9" fill="transparent"><title>Languages · 2024: 10</title></circle>
-<circle cx="363.3" cy="222" r="9" fill="transparent"><title>Languages · 2025: 10</title></circle>
-<circle cx="400" cy="213.6" r="9" fill="transparent"><title>Languages · 2026: 13</title></circle>
-<path class="line" d="M70,250L106.7,230.4L143.3,205.2L180,205.2L216.7,188.4L253.3,160.4L290,149.2L326.7,138L363.3,138L400,138" fill="none" stroke="#8250df" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="400" cy="138" r="4" fill="#8250df" stroke="#ffffff" stroke-width="2"/>
+<circle cx="106.7" cy="247.2" r="9" fill="transparent"><title>Languages · 2018: 2</title></circle>
+<circle cx="143.3" cy="238.8" r="9" fill="transparent"><title>Languages · 2019: 8</title></circle>
+<circle cx="180" cy="238.8" r="9" fill="transparent"><title>Languages · 2020: 8</title></circle>
+<circle cx="216.7" cy="238.8" r="9" fill="transparent"><title>Languages · 2021: 8</title></circle>
+<circle cx="253.3" cy="238.8" r="9" fill="transparent"><title>Languages · 2022: 8</title></circle>
+<circle cx="290" cy="238.8" r="9" fill="transparent"><title>Languages · 2023: 8</title></circle>
+<circle cx="326.7" cy="236" r="9" fill="transparent"><title>Languages · 2024: 10</title></circle>
+<circle cx="363.3" cy="236" r="9" fill="transparent"><title>Languages · 2025: 10</title></circle>
+<circle cx="400" cy="231.8" r="9" fill="transparent"><title>Languages · 2026: 13</title></circle>
+<path class="line" d="M70,250L106.7,240.2L143.3,227.6L180,227.6L216.7,219.2L253.3,205.2L290,199.6L326.7,194L363.3,194L400,173" fill="none" stroke="#8250df" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="400" cy="173" r="4" fill="#8250df" stroke="#ffffff" stroke-width="2"/>
 <circle cx="70" cy="250" r="9" fill="transparent"><title>Topics · 2017: 0</title></circle>
-<circle cx="106.7" cy="230.4" r="9" fill="transparent"><title>Topics · 2018: 7</title></circle>
-<circle cx="143.3" cy="205.2" r="9" fill="transparent"><title>Topics · 2019: 16</title></circle>
-<circle cx="180" cy="205.2" r="9" fill="transparent"><title>Topics · 2020: 16</title></circle>
-<circle cx="216.7" cy="188.4" r="9" fill="transparent"><title>Topics · 2021: 22</title></circle>
-<circle cx="253.3" cy="160.4" r="9" fill="transparent"><title>Topics · 2022: 32</title></circle>
-<circle cx="290" cy="149.2" r="9" fill="transparent"><title>Topics · 2023: 36</title></circle>
-<circle cx="326.7" cy="138" r="9" fill="transparent"><title>Topics · 2024: 40</title></circle>
-<circle cx="363.3" cy="138" r="9" fill="transparent"><title>Topics · 2025: 40</title></circle>
-<circle cx="400" cy="138" r="9" fill="transparent"><title>Topics · 2026: 40</title></circle>
-<line x1="410" y1="138" x2="420" y2="138" stroke="#8250df" stroke-width="3" stroke-linecap="round"/>
-<text class="axis" x="426" y="142">Topics <tspan class="muted">40</tspan></text>
-<line x1="410" y1="213.6" x2="420" y2="213.6" stroke="#0969da" stroke-width="3" stroke-linecap="round"/>
-<text class="axis" x="426" y="217.6">Languages <tspan class="muted">13</tspan></text>
+<circle cx="106.7" cy="240.2" r="9" fill="transparent"><title>Topics · 2018: 7</title></circle>
+<circle cx="143.3" cy="227.6" r="9" fill="transparent"><title>Topics · 2019: 16</title></circle>
+<circle cx="180" cy="227.6" r="9" fill="transparent"><title>Topics · 2020: 16</title></circle>
+<circle cx="216.7" cy="219.2" r="9" fill="transparent"><title>Topics · 2021: 22</title></circle>
+<circle cx="253.3" cy="205.2" r="9" fill="transparent"><title>Topics · 2022: 32</title></circle>
+<circle cx="290" cy="199.6" r="9" fill="transparent"><title>Topics · 2023: 36</title></circle>
+<circle cx="326.7" cy="194" r="9" fill="transparent"><title>Topics · 2024: 40</title></circle>
+<circle cx="363.3" cy="194" r="9" fill="transparent"><title>Topics · 2025: 40</title></circle>
+<circle cx="400" cy="173" r="9" fill="transparent"><title>Topics · 2026: 55</title></circle>
+<line x1="410" y1="173" x2="420" y2="173" stroke="#8250df" stroke-width="3" stroke-linecap="round"/>
+<text class="axis" x="426" y="177">Topics <tspan class="muted">55</tspan></text>
+<line x1="410" y1="231.8" x2="420" y2="231.8" stroke="#0969da" stroke-width="3" stroke-linecap="round"/>
+<text class="axis" x="426" y="235.8">Languages <tspan class="muted">13</tspan></text>
 <line x1="500" y1="66" x2="500" y2="282" stroke="#d0d7de"/>
 <text class="k muted" x="532" y="80">Projects per language, cumulative</text>
 <line x1="568" y1="250" x2="858" y2="250" stroke="#d0d7de"/>
@@ -67,8 +67,8 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <text class="axis muted" x="729.1" y="270" text-anchor="middle">2022</text>
 <text class="axis muted" x="793.6" y="270" text-anchor="middle">2024</text>
 <text class="axis muted" x="858" y="270" text-anchor="middle">2026</text>
-<path class="line" d="M568,250L600.2,250L632.4,250L664.7,250L696.9,250L729.1,250L761.3,250L793.6,236L825.8,194L858,152" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="858" cy="152" r="4" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<path class="line" d="M568,250L600.2,250L632.4,250L664.7,250L696.9,250L729.1,250L761.3,250L793.6,236L825.8,194L858,138" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="858" cy="138" r="4" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
 <circle cx="568" cy="250" r="9" fill="transparent"><title>TypeScript · 2017: 0</title></circle>
 <circle cx="600.2" cy="250" r="9" fill="transparent"><title>TypeScript · 2018: 0</title></circle>
 <circle cx="632.4" cy="250" r="9" fill="transparent"><title>TypeScript · 2019: 0</title></circle>
@@ -78,7 +78,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <circle cx="761.3" cy="250" r="9" fill="transparent"><title>TypeScript · 2023: 0</title></circle>
 <circle cx="793.6" cy="236" r="9" fill="transparent"><title>TypeScript · 2024: 1</title></circle>
 <circle cx="825.8" cy="194" r="9" fill="transparent"><title>TypeScript · 2025: 4</title></circle>
-<circle cx="858" cy="152" r="9" fill="transparent"><title>TypeScript · 2026: 7</title></circle>
+<circle cx="858" cy="138" r="9" fill="transparent"><title>TypeScript · 2026: 8</title></circle>
 <path class="line" d="M568,250L600.2,250L632.4,208L664.7,208L696.9,208L729.1,166L761.3,166L793.6,152L825.8,138L858,124" fill="none" stroke="#eb6834" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="858" cy="124" r="4" fill="#eb6834" stroke="#ffffff" stroke-width="2"/>
 <circle cx="568" cy="250" r="9" fill="transparent"><title>HTML · 2017: 0</title></circle>
@@ -91,8 +91,8 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <circle cx="793.6" cy="152" r="9" fill="transparent"><title>HTML · 2024: 7</title></circle>
 <circle cx="825.8" cy="138" r="9" fill="transparent"><title>HTML · 2025: 8</title></circle>
 <circle cx="858" cy="124" r="9" fill="transparent"><title>HTML · 2026: 9</title></circle>
-<path class="line" d="M568,250L600.2,250L632.4,236L664.7,236L696.9,236L729.1,236L761.3,222L793.6,194L825.8,194L858,152" fill="none" stroke="#1baf7a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="858" cy="152" r="4" fill="#1baf7a" stroke="#ffffff" stroke-width="2"/>
+<path class="line" d="M568,250L600.2,250L632.4,236L664.7,236L696.9,236L729.1,236L761.3,222L793.6,194L825.8,194L858,138" fill="none" stroke="#1baf7a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="858" cy="138" r="4" fill="#1baf7a" stroke="#ffffff" stroke-width="2"/>
 <circle cx="568" cy="250" r="9" fill="transparent"><title>JavaScript · 2017: 0</title></circle>
 <circle cx="600.2" cy="250" r="9" fill="transparent"><title>JavaScript · 2018: 0</title></circle>
 <circle cx="632.4" cy="236" r="9" fill="transparent"><title>JavaScript · 2019: 1</title></circle>
@@ -102,7 +102,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <circle cx="761.3" cy="222" r="9" fill="transparent"><title>JavaScript · 2023: 2</title></circle>
 <circle cx="793.6" cy="194" r="9" fill="transparent"><title>JavaScript · 2024: 4</title></circle>
 <circle cx="825.8" cy="194" r="9" fill="transparent"><title>JavaScript · 2025: 4</title></circle>
-<circle cx="858" cy="152" r="9" fill="transparent"><title>JavaScript · 2026: 7</title></circle>
+<circle cx="858" cy="138" r="9" fill="transparent"><title>JavaScript · 2026: 8</title></circle>
 <path class="line" d="M568,250L600.2,222L632.4,208L664.7,194L696.9,194L729.1,194L761.3,194L793.6,194L825.8,194L858,194" fill="none" stroke="#eda100" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="858" cy="194" r="4" fill="#eda100" stroke="#ffffff" stroke-width="2"/>
 <circle cx="568" cy="250" r="9" fill="transparent"><title>Python · 2017: 0</title></circle>
@@ -153,10 +153,10 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <circle cx="858" cy="236" r="9" fill="transparent"><title>PHP · 2026: 1</title></circle>
 <line x1="868" y1="124" x2="878" y2="124" stroke="#eb6834" stroke-width="3" stroke-linecap="round"/>
 <text class="axis" x="884" y="128">HTML <tspan class="muted">9</tspan></text>
-<line x1="868" y1="152" x2="878" y2="152" stroke="#2a78d6" stroke-width="3" stroke-linecap="round"/>
-<text class="axis" x="884" y="156">TypeScript <tspan class="muted">7</tspan></text>
-<line x1="868" y1="167" x2="878" y2="167" stroke="#1baf7a" stroke-width="3" stroke-linecap="round"/>
-<text class="axis" x="884" y="171">JavaScript <tspan class="muted">7</tspan></text>
+<line x1="868" y1="139" x2="878" y2="139" stroke="#2a78d6" stroke-width="3" stroke-linecap="round"/>
+<text class="axis" x="884" y="143">TypeScript <tspan class="muted">8</tspan></text>
+<line x1="868" y1="154" x2="878" y2="154" stroke="#1baf7a" stroke-width="3" stroke-linecap="round"/>
+<text class="axis" x="884" y="158">JavaScript <tspan class="muted">8</tspan></text>
 <line x1="868" y1="194" x2="878" y2="194" stroke="#eda100" stroke-width="3" stroke-linecap="round"/>
 <text class="axis" x="884" y="198">Python <tspan class="muted">4</tspan></text>
 <line x1="868" y1="209" x2="878" y2="209" stroke="#e87ba4" stroke-width="3" stroke-linecap="round"/>
@@ -176,5 +176,5 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <circle cx="640.4" cy="350" r="4" fill="#0969da"/><text class="val" x="640.4" y="372" text-anchor="middle">+4</text><text class="axis muted" x="640.4" y="392" text-anchor="middle">#android</text><text class="axis muted" x="640.4" y="409" text-anchor="middle">#backup</text><text class="axis muted" x="640.4" y="426" text-anchor="middle">#data</text><text class="axis muted" x="640.4" y="443" text-anchor="middle">#sync</text>
 <circle cx="734" cy="350" r="4" fill="#0969da"/><text class="val" x="734" y="372" text-anchor="middle">+6</text><text class="new" x="734" y="392" text-anchor="middle">TypeScript</text><text class="new" x="734" y="409" text-anchor="middle">Batchfile</text><text class="axis muted" x="734" y="426" text-anchor="middle">#beacon</text><text class="axis muted" x="734" y="443" text-anchor="middle">#esp32</text><text class="axis muted" x="734" y="460" text-anchor="middle">#gps</text><text class="axis muted" x="734" y="477" text-anchor="middle">#qackon</text>
 <circle cx="827.6" cy="350" r="4" fill="#d0d7de"/><text class="axis muted" x="827.6" y="372" text-anchor="middle">–</text>
-<circle cx="921.2" cy="350" r="4" fill="#0969da"/><text class="val" x="921.2" y="372" text-anchor="middle">+3</text><text class="new" x="921.2" y="392" text-anchor="middle">Dockerfile</text><text class="new" x="921.2" y="409" text-anchor="middle">Shell</text><text class="new" x="921.2" y="426" text-anchor="middle">HCL</text>
+<circle cx="921.2" cy="350" r="4" fill="#0969da"/><text class="val" x="921.2" y="372" text-anchor="middle">+18</text><text class="new" x="921.2" y="392" text-anchor="middle">Dockerfile</text><text class="new" x="921.2" y="409" text-anchor="middle">Shell</text><text class="new" x="921.2" y="426" text-anchor="middle">HCL</text><text class="axis muted" x="921.2" y="443" text-anchor="middle">#e-learning</text><text class="axis muted" x="921.2" y="460" text-anchor="middle">#elearning</text><text class="axis muted" x="921.2" y="477" text-anchor="middle">+13 more</text>
 </svg>
