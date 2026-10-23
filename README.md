@@ -92,5 +92,5 @@ Outside work, I build personal projects: utility tools, system customisation, el
 - **[nextjs-ecom](https://github.com/jowinjohnchemban/nextjs-ecom)** · TypeScript
 
 <p align="center"><sub>
-⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->23 Oct 2026, 5:16 pm IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
+⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->23 Oct 2026, 10:44 pm IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
 </sub></p>
