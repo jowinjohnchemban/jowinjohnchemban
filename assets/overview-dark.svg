@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="344" viewBox="0 0 1000 344" role="img" aria-label="GitHub stats. Total contributions: 1381, Past year: 752, Current streak: 5, Longest streak: 9, Stars earned: 75, Public repos: 45, Pull requests: 46, Followers: 18. Top languages in public repos: TypeScript 60%, HTML 13%, JavaScript 12%, Python 7.1%, CSS 3.6%, C++ 1.4%, PHP 1.2%, Other 0.7%">
-<title>GitHub stats. Total contributions: 1381, Past year: 752, Current streak: 5, Longest streak: 9, Stars earned: 75, Public repos: 45, Pull requests: 46, Followers: 18. Top languages in public repos: TypeScript 60%, HTML 13%, JavaScript 12%, Python 7.1%, CSS 3.6%, C++ 1.4%, PHP 1.2%, Other 0.7%</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="344" viewBox="0 0 1000 344" role="img" aria-label="GitHub stats. Total contributions: 1383, Past year: 754, Current streak: 5, Longest streak: 9, Stars earned: 75, Public repos: 45, Pull requests: 47, Followers: 18. Top languages in public repos: TypeScript 62%, HTML 13%, JavaScript 12%, Python 6.8%, CSS 3.4%, C++ 1.3%, PHP 1.2%, Other 0.6%">
+<title>GitHub stats. Total contributions: 1383, Past year: 754, Current streak: 5, Longest streak: 9, Stars earned: 75, Public repos: 45, Pull requests: 47, Followers: 18. Top languages in public repos: TypeScript 62%, HTML 13%, JavaScript 12%, Python 6.8%, CSS 3.4%, C++ 1.3%, PHP 1.2%, Other 0.6%</title>
 <style>
 text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
 .muted { fill: #9198a1; }
@@ -19,24 +19,24 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <rect x="0.5" y="0.5" width="999" height="343" rx="14" fill="#0d1117" stroke="#30363d"/>
 <text class="h" x="32" y="42">GitHub at a glance</text>
 <text class="sub muted" x="32" y="322">On GitHub since 2017</text>
-<text class="label muted" x="32" y="80">Total contributions</text><text class="value" x="32" y="108">1,381<tspan class="unit muted"></tspan></text>
-<text class="label muted" x="272" y="80">Past year</text><text class="value" x="272" y="108">752<tspan class="unit muted"></tspan></text>
+<text class="label muted" x="32" y="80">Total contributions</text><text class="value" x="32" y="108">1,383<tspan class="unit muted"></tspan></text>
+<text class="label muted" x="272" y="80">Past year</text><text class="value" x="272" y="108">754<tspan class="unit muted"></tspan></text>
 <text class="label muted" x="32" y="138">Current streak</text><text class="value" x="32" y="166">5<tspan class="unit muted"> days</tspan></text>
 <text class="label muted" x="272" y="138">Longest streak</text><text class="value" x="272" y="166">9<tspan class="unit muted"> days</tspan></text>
 <text class="label muted" x="32" y="196">Stars earned</text><text class="value" x="32" y="224">75<tspan class="unit muted"></tspan></text>
 <text class="label muted" x="272" y="196">Public repos</text><text class="value" x="272" y="224">45<tspan class="unit muted"></tspan></text>
-<text class="label muted" x="32" y="254">Pull requests</text><text class="value" x="32" y="282">46<tspan class="unit muted"></tspan></text>
+<text class="label muted" x="32" y="254">Pull requests</text><text class="value" x="32" y="282">47<tspan class="unit muted"></tspan></text>
 <text class="label muted" x="272" y="254">Followers</text><text class="value" x="272" y="282">18<tspan class="unit muted"></tspan></text>
 <line x1="524" y1="32" x2="524" y2="312" stroke="#30363d"/>
 <text class="h" x="556" y="42">Top languages</text>
 <clipPath id="bar"><rect x="556" y="74" width="412" height="12" rx="6"/></clipPath>
-<g clip-path="url(#bar)"><rect x="556" y="74" width="245.2" height="12" fill="#3987e5"><title>TypeScript 60%</title></rect><rect x="803.2" y="74" width="53.5" height="12" fill="#d95926"><title>HTML 13%</title></rect><rect x="858.8" y="74" width="49.4" height="12" fill="#199e70"><title>JavaScript 12%</title></rect><rect x="910.2" y="74" width="27.4" height="12" fill="#c98500"><title>Python 7.1%</title></rect><rect x="939.6" y="74" width="12.9" height="12" fill="#d55181"><title>CSS 3.6%</title></rect><rect x="954.5" y="74" width="3.7" height="12" fill="#008300"><title>C++ 1.4%</title></rect><rect x="960.1" y="74" width="3.1" height="12" fill="#9085e9"><title>PHP 1.2%</title></rect><rect x="965.2" y="74" width="0.8" height="12" fill="#6e7681"><title>Other 0.7%</title></rect></g>
-<circle cx="562" cy="117" r="6" fill="#3987e5"/><text class="lang" x="576" y="122">TypeScript <tspan class="muted">60%</tspan></text>
+<g clip-path="url(#bar)"><rect x="556" y="74" width="252.8" height="12" fill="#3987e5"><title>TypeScript 62%</title></rect><rect x="810.8" y="74" width="51" height="12" fill="#d95926"><title>HTML 13%</title></rect><rect x="863.8" y="74" width="47.1" height="12" fill="#199e70"><title>JavaScript 12%</title></rect><rect x="912.8" y="74" width="26.1" height="12" fill="#c98500"><title>Python 6.8%</title></rect><rect x="940.9" y="74" width="12.2" height="12" fill="#d55181"><title>CSS 3.4%</title></rect><rect x="955.1" y="74" width="3.4" height="12" fill="#008300"><title>C++ 1.3%</title></rect><rect x="960.5" y="74" width="2.8" height="12" fill="#9085e9"><title>PHP 1.2%</title></rect><rect x="965.3" y="74" width="0.7" height="12" fill="#6e7681"><title>Other 0.6%</title></rect></g>
+<circle cx="562" cy="117" r="6" fill="#3987e5"/><text class="lang" x="576" y="122">TypeScript <tspan class="muted">62%</tspan></text>
 <circle cx="772" cy="117" r="6" fill="#d95926"/><text class="lang" x="786" y="122">HTML <tspan class="muted">13%</tspan></text>
 <circle cx="562" cy="151" r="6" fill="#199e70"/><text class="lang" x="576" y="156">JavaScript <tspan class="muted">12%</tspan></text>
-<circle cx="772" cy="151" r="6" fill="#c98500"/><text class="lang" x="786" y="156">Python <tspan class="muted">7.1%</tspan></text>
-<circle cx="562" cy="185" r="6" fill="#d55181"/><text class="lang" x="576" y="190">CSS <tspan class="muted">3.6%</tspan></text>
-<circle cx="772" cy="185" r="6" fill="#008300"/><text class="lang" x="786" y="190">C++ <tspan class="muted">1.4%</tspan></text>
+<circle cx="772" cy="151" r="6" fill="#c98500"/><text class="lang" x="786" y="156">Python <tspan class="muted">6.8%</tspan></text>
+<circle cx="562" cy="185" r="6" fill="#d55181"/><text class="lang" x="576" y="190">CSS <tspan class="muted">3.4%</tspan></text>
+<circle cx="772" cy="185" r="6" fill="#008300"/><text class="lang" x="786" y="190">C++ <tspan class="muted">1.3%</tspan></text>
 <circle cx="562" cy="219" r="6" fill="#9085e9"/><text class="lang" x="576" y="224">PHP <tspan class="muted">1.2%</tspan></text>
-<circle cx="772" cy="219" r="6" fill="#6e7681"/><text class="lang" x="786" y="224">Other <tspan class="muted">0.7%</tspan></text>
+<circle cx="772" cy="219" r="6" fill="#6e7681"/><text class="lang" x="786" y="224">Other <tspan class="muted">0.6%</tspan></text>
 </svg>
