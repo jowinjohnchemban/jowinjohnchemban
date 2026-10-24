@@ -84,13 +84,13 @@ Outside work, I build personal projects: utility tools, system customisation, el
 
 ## Recently active projects
 
-- **[scormite](https://github.com/jowinjohnchemban/scormite)** · TypeScript — Test, debug, and validate SCORM 1.2 and 2004 packages in your browser — an LMS-faithful player, API log, CMI inspector, validation, and QA…
+- **[hashnode-client](https://github.com/jowinjohnchemban/hashnode-client)** · TypeScript — Typed, zero-dependency Hashnode GraphQL API client for Node.js, Next.js and edge runtimes, with webhook verification.
 - **[GeoLite.mmdb](https://github.com/jowinjohnchemban/GeoLite.mmdb)** — Automated distribution of MaxMind GeoLite2 ASN, City and Country MMDB databases with scheduled updates via GitHub Actions.
+- **[scormite](https://github.com/jowinjohnchemban/scormite)** · TypeScript — Test, debug, and validate SCORM 1.2 and 2004 packages in your browser — an LMS-faithful player, API log, CMI inspector, validation, and QA…
 - **[ble-ecu-reader-web](https://github.com/jowinjohnchemban/ble-ecu-reader-web)** · JavaScript
 - **[qackon](https://github.com/jowinjohnchemban/qackon)** · C++ — Qackon is a durable open source safety beacon/tracking for automotive and personal use. It uses GPS for precise location pinpointing, Bluet…
 - **[pecom](https://github.com/jowinjohnchemban/pecom)** · TypeScript
-- **[nextjs-ecom](https://github.com/jowinjohnchemban/nextjs-ecom)** · TypeScript
 
 <p align="center"><sub>
-⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->24 Oct 2026, 10:14 am IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
+⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->24 Oct 2026, 4:40 pm IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
 </sub></p>
