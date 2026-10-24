@@ -73,7 +73,7 @@ Outside work, I build personal projects: utility tools, system customisation, el
 
 **Recent activity**
 
-- 🟢 Open PR · [Bump golang.org/x/image dependency to version 0.41.0](https://github.com/nvm-windows/nvm/pull/1478) in [nvm-windows/nvm](https://github.com/nvm-windows/nvm) · Oct 2026
+- ⚪ Closed PR · [Bump golang.org/x/image dependency to version 0.41.0](https://github.com/nvm-windows/nvm/pull/1478) in [nvm-windows/nvm](https://github.com/nvm-windows/nvm) · Oct 2026
 - 🟣 Merged PR · [feat(sequencing): evaluate timeLimitExceeded and outsideAvailableTimeRange in rollup rules](https://github.com/jcputney/scorm-again/pull/1763) in [jcputney/scorm-again](https://github.com/jcputney/scorm-again) · Oct 2026
 - 🟢 Open PR · [Add "Meeting the conditions" enrol method with scheduled task](https://github.com/bobopinna/moodle-enrol_autoenrol/pull/75) in [bobopinna/moodle-enrol\_autoenrol](https://github.com/bobopinna/moodle-enrol_autoenrol) · Oct 2026
 - 🟢 Open PR · [Add scheduled and ad-hoc report emailing to predefined recipients](https://github.com/jleyva/moodle-block_configurablereports/pull/293) in [jleyva/moodle-block\_configurablereports](https://github.com/jleyva/moodle-block_configurablereports) · Oct 2026
@@ -92,5 +92,5 @@ Outside work, I build personal projects: utility tools, system customisation, el
 - **[pecom](https://github.com/jowinjohnchemban/pecom)** · TypeScript
 
 <p align="center"><sub>
-⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->24 Oct 2026, 9:31 pm IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
+⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->25 Oct 2026, 2:25 am IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
 </sub></p>
