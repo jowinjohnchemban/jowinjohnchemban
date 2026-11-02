@@ -77,20 +77,20 @@ Outside work, I build personal projects: utility tools, system customisation, el
 - ⚪ Closed PR · [Bump golang.org/x/image dependency to version 0.41.0](https://github.com/nvm-windows/nvm/pull/1478) in [nvm-windows/nvm](https://github.com/nvm-windows/nvm) · Oct 2026
 - 🟣 Merged PR · [feat(sequencing): evaluate timeLimitExceeded and outsideAvailableTimeRange in rollup rules](https://github.com/jcputney/scorm-again/pull/1763) in [jcputney/scorm-again](https://github.com/jcputney/scorm-again) · Oct 2026
 - 🟢 Open PR · [Add "Meeting the conditions" enrol method with scheduled task](https://github.com/bobopinna/moodle-enrol_autoenrol/pull/75) in [bobopinna/moodle-enrol\_autoenrol](https://github.com/bobopinna/moodle-enrol_autoenrol) · Oct 2026
-- 🟢 Open PR · [Add scheduled and ad-hoc report emailing to predefined recipients](https://github.com/jleyva/moodle-block_configurablereports/pull/293) in [jleyva/moodle-block\_configurablereports](https://github.com/jleyva/moodle-block_configurablereports) · Oct 2026
+- 🟢 Open PR · [Add scheduled and ad-hoc report emailing to predefined recipients](https://github.com/jleyva/moodle-block_configurable_reports/pull/293) in [jleyva/moodle-block\_configurable\_reports](https://github.com/jleyva/moodle-block_configurable_reports) · Oct 2026
 - 🟢 Open issue · [Windows AMD64 native binary crashes with STATUS\_ILLEGAL\_INSTRUCTION](https://github.com/floci-io/floci/issues/3832) in [floci-io/floci](https://github.com/floci-io/floci) · Sept 2026
-- 🟢 Open issue · [Feature Request: Add Custom Export Filename/Format for Each Reports](https://github.com/jleyva/moodle-block_configurablereports/issues/270) in [jleyva/moodle-block\_configurablereports](https://github.com/jleyva/moodle-block_configurablereports) · May 2025
+- 🟢 Open issue · [Feature Request: Add Custom Export Filename/Format for Each Reports](https://github.com/jleyva/moodle-block_configurable_reports/issues/270) in [jleyva/moodle-block\_configurable\_reports](https://github.com/jleyva/moodle-block_configurable_reports) · May 2025
 - 🟣 Merged PR · [Added മലയാളം Indian Language](https://github.com/localsend/website/pull/81) in [localsend/website](https://github.com/localsend/website) · Jul 2024
 
 ## Recently active projects
 
 - **[GeoLite.mmdb](https://github.com/jowinjohnchemban/GeoLite.mmdb)** — Automated distribution of MaxMind GeoLite2 ASN, City and Country MMDB databases with scheduled updates via GitHub Actions.
-- **[hashnode-client](https://github.com/jowinjohnchemban/hashnode-client)** · TypeScript — Typed, zero-dependency Hashnode GraphQL API client for Node.js, Next.js and edge runtimes, with webhook verification.
 - **[scormite](https://github.com/jowinjohnchemban/scormite)** · TypeScript — Test, debug, and validate SCORM 1.2 and 2004 packages in your browser — an LMS-faithful player, API log, CMI inspector, validation, and QA…
+- **[hashnode-client](https://github.com/jowinjohnchemban/hashnode-client)** · TypeScript — Typed, zero-dependency Hashnode GraphQL API client for Node.js, Next.js and edge runtimes, with webhook verification.
 - **[ble-ecu-reader-web](https://github.com/jowinjohnchemban/ble-ecu-reader-web)** · JavaScript
 - **[qackon](https://github.com/jowinjohnchemban/qackon)** · C++ — Qackon is a durable open source safety beacon/tracking for automotive and personal use. It uses GPS for precise location pinpointing, Bluet…
 - **[pecom](https://github.com/jowinjohnchemban/pecom)** · TypeScript
 
 <p align="center"><sub>
-⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->2 Nov 2026, 11:47 am IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
+⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->2 Nov 2026, 9:37 pm IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
 </sub></p>
