@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-label="Rhythm. Weekly contributions over the past year, peak 214. By weekday: Mon 189, Tue 81, Wed 157, Thu 168, Fri 117, Sat 247, Sun 274">
-<title>Rhythm. Weekly contributions over the past year, peak 214. By weekday: Mon 189, Tue 81, Wed 157, Thu 168, Fri 117, Sat 247, Sun 274</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-label="Rhythm. Weekly contributions over the past year, peak 214. By weekday: Mon 189, Tue 81, Wed 157, Thu 168, Fri 117, Sat 247, Sun 296">
+<title>Rhythm. Weekly contributions over the past year, peak 214. By weekday: Mon 189, Tue 81, Wed 157, Thu 168, Fri 117, Sat 247, Sun 296</title>
 <style>
 text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
 .muted { fill: #9198a1; }
@@ -32,12 +32,12 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <text class="axis muted" x="409" y="280" text-anchor="middle">Sep</text>
 <text class="axis muted" x="440.6" y="280" text-anchor="middle">Oct</text>
 <text class="axis muted" x="472.1" y="280" text-anchor="middle">Nov</text>
-<path d="M70,260L77.9,255.8L85.8,258.8L93.7,260L101.5,216.2L109.4,251.6L117.3,249.2L125.2,248.6L133.1,234.2L141,258.8L148.8,260L156.7,260L164.6,258.2L172.5,260L180.4,259.4L188.3,260L196.2,258.8L204,260L211.9,260L219.8,257.6L227.7,257L235.6,260L243.5,260L251.3,253.4L259.2,260L267.1,260L275,260L282.9,257.6L290.8,260L298.7,260L306.5,260L314.4,260L322.3,254L330.2,258.2L338.1,248.6L346,257.6L353.8,241.4L361.7,254.6L369.6,254L377.5,238.4L385.4,260L393.3,260L401.2,245L409,260L416.9,234.2L424.8,182.6L432.7,233L440.6,180.2L448.5,209.6L456.3,131.6L464.2,153.8L472.1,238.4L480,249.8L480,260L70,260Z" fill="#58a6ff" opacity="0.15"/>
-<path class="line" d="M70,260L77.9,255.8L85.8,258.8L93.7,260L101.5,216.2L109.4,251.6L117.3,249.2L125.2,248.6L133.1,234.2L141,258.8L148.8,260L156.7,260L164.6,258.2L172.5,260L180.4,259.4L188.3,260L196.2,258.8L204,260L211.9,260L219.8,257.6L227.7,257L235.6,260L243.5,260L251.3,253.4L259.2,260L267.1,260L275,260L282.9,257.6L290.8,260L298.7,260L306.5,260L314.4,260L322.3,254L330.2,258.2L338.1,248.6L346,257.6L353.8,241.4L361.7,254.6L369.6,254L377.5,238.4L385.4,260L393.3,260L401.2,245L409,260L416.9,234.2L424.8,182.6L432.7,233L440.6,180.2L448.5,209.6L456.3,131.6L464.2,153.8L472.1,238.4L480,249.8" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M70,260L77.9,255.8L85.8,258.8L93.7,260L101.5,216.2L109.4,251.6L117.3,249.2L125.2,248.6L133.1,234.2L141,258.8L148.8,260L156.7,260L164.6,258.2L172.5,260L180.4,259.4L188.3,260L196.2,258.8L204,260L211.9,260L219.8,257.6L227.7,257L235.6,260L243.5,260L251.3,253.4L259.2,260L267.1,260L275,260L282.9,257.6L290.8,260L298.7,260L306.5,260L314.4,260L322.3,254L330.2,258.2L338.1,248.6L346,257.6L353.8,241.4L361.7,254.6L369.6,254L377.5,238.4L385.4,260L393.3,260L401.2,245L409,260L416.9,234.2L424.8,182.6L432.7,233L440.6,180.2L448.5,209.6L456.3,131.6L464.2,153.8L472.1,238.4L480,236.6L480,260L70,260Z" fill="#58a6ff" opacity="0.15"/>
+<path class="line" d="M70,260L77.9,255.8L85.8,258.8L93.7,260L101.5,216.2L109.4,251.6L117.3,249.2L125.2,248.6L133.1,234.2L141,258.8L148.8,260L156.7,260L164.6,258.2L172.5,260L180.4,259.4L188.3,260L196.2,258.8L204,260L211.9,260L219.8,257.6L227.7,257L235.6,260L243.5,260L251.3,253.4L259.2,260L267.1,260L275,260L282.9,257.6L290.8,260L298.7,260L306.5,260L314.4,260L322.3,254L330.2,258.2L338.1,248.6L346,257.6L353.8,241.4L361.7,254.6L369.6,254L377.5,238.4L385.4,260L393.3,260L401.2,245L409,260L416.9,234.2L424.8,182.6L432.7,233L440.6,180.2L448.5,209.6L456.3,131.6L464.2,153.8L472.1,238.4L480,236.6" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="456.3" cy="131.6" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
 <text class="val" x="456.3" y="121.6" text-anchor="middle">214</text>
-<circle cx="480" cy="249.8" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
-<text class="val" x="480" y="239.8" text-anchor="middle">17</text>
+<circle cx="480" cy="236.6" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
+<text class="val" x="480" y="226.6" text-anchor="middle">39</text>
 <circle cx="70" cy="260" r="9" fill="transparent"><title>Week of 2025-11-09: 0</title></circle>
 <circle cx="77.9" cy="255.8" r="9" fill="transparent"><title>Week of 2025-11-16: 7</title></circle>
 <circle cx="85.8" cy="258.8" r="9" fill="transparent"><title>Week of 2025-11-23: 2</title></circle>
@@ -90,7 +90,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <circle cx="456.3" cy="131.6" r="9" fill="transparent"><title>Week of 2026-10-18: 214</title></circle>
 <circle cx="464.2" cy="153.8" r="9" fill="transparent"><title>Week of 2026-10-25: 177</title></circle>
 <circle cx="472.1" cy="238.4" r="9" fill="transparent"><title>Week of 2026-11-01: 36</title></circle>
-<circle cx="480" cy="249.8" r="9" fill="transparent"><title>Week of 2026-11-08: 17</title></circle>
+<circle cx="480" cy="236.6" r="9" fill="transparent"><title>Week of 2026-11-08: 39</title></circle>
 <line x1="530" y1="66" x2="530" y2="288" stroke="#30363d"/>
 <text class="k muted" x="562" y="80">Shape of the week, past year</text>
 <line x1="600" y1="260" x2="940" y2="260" stroke="#30363d"/>
@@ -106,8 +106,8 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <text class="axis muted" x="826.7" y="280" text-anchor="middle">Fri</text>
 <text class="axis muted" x="883.3" y="280" text-anchor="middle">Sat</text>
 <text class="axis muted" x="940" y="280" text-anchor="middle">Sun</text>
-<path d="M600,203.3L656.7,235.7L713.3,212.9L770,209.6L826.7,224.9L883.3,185.9L940,177.8L940,260L600,260Z" fill="#58a6ff" opacity="0.15"/>
-<path class="line" d="M600,203.3L656.7,235.7L713.3,212.9L770,209.6L826.7,224.9L883.3,185.9L940,177.8" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M600,203.3L656.7,235.7L713.3,212.9L770,209.6L826.7,224.9L883.3,185.9L940,171.2L940,260L600,260Z" fill="#58a6ff" opacity="0.15"/>
+<path class="line" d="M600,203.3L656.7,235.7L713.3,212.9L770,209.6L826.7,224.9L883.3,185.9L940,171.2" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="600" cy="203.3" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
 <text class="val" x="600" y="193.3" text-anchor="middle">189</text>
 <circle cx="656.7" cy="235.7" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
@@ -120,13 +120,13 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <text class="val" x="826.7" y="214.9" text-anchor="middle">117</text>
 <circle cx="883.3" cy="185.9" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
 <text class="val" x="883.3" y="175.9" text-anchor="middle">247</text>
-<circle cx="940" cy="177.8" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
-<text class="val" x="940" y="167.8" text-anchor="middle">274</text>
+<circle cx="940" cy="171.2" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
+<text class="val" x="940" y="161.2" text-anchor="middle">296</text>
 <circle cx="600" cy="203.3" r="9" fill="transparent"><title>Mon: 189</title></circle>
 <circle cx="656.7" cy="235.7" r="9" fill="transparent"><title>Tue: 81</title></circle>
 <circle cx="713.3" cy="212.9" r="9" fill="transparent"><title>Wed: 157</title></circle>
 <circle cx="770" cy="209.6" r="9" fill="transparent"><title>Thu: 168</title></circle>
 <circle cx="826.7" cy="224.9" r="9" fill="transparent"><title>Fri: 117</title></circle>
 <circle cx="883.3" cy="185.9" r="9" fill="transparent"><title>Sat: 247</title></circle>
-<circle cx="940" cy="177.8" r="9" fill="transparent"><title>Sun: 274</title></circle>
+<circle cx="940" cy="171.2" r="9" fill="transparent"><title>Sun: 296</title></circle>
 </svg>
