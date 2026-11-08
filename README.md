@@ -84,7 +84,7 @@ Outside work, I build personal projects: utility tools, system customisation, el
 
 ## Recently active projects
 
-- **[krita-mcp](https://github.com/jowinjohnchemban/krita-mcp)** · Python — Let AI agents (Claude, ChatGPT, Gemini, Cursor...) create and edit art, photos, animation and video inside a running Krita, via MCP
+- **[kritapilot](https://github.com/jowinjohnchemban/kritapilot)** · Python — KritaPilot: the Krita MCP server and AI assistant. AI agents (Claude, ChatGPT, Gemini, Cursor) and an AI Chat inside Krita paint, edit and…
 - **[GeoLite.mmdb](https://github.com/jowinjohnchemban/GeoLite.mmdb)** — Automated distribution of MaxMind GeoLite2 ASN, City and Country MMDB databases with scheduled updates via GitHub Actions.
 - **[hashnode-client](https://github.com/jowinjohnchemban/hashnode-client)** · TypeScript — Typed, zero-dependency Hashnode GraphQL API client for Node.js, Next.js and edge runtimes, with webhook verification.
 - **[scormite](https://github.com/jowinjohnchemban/scormite)** · TypeScript — Test, debug, and validate SCORM 1.2 and 2004 packages in your browser — an LMS-faithful player, API log, CMI inspector, validation, and QA…
@@ -92,5 +92,5 @@ Outside work, I build personal projects: utility tools, system customisation, el
 - **[qackon](https://github.com/jowinjohnchemban/qackon)** · C++ — Qackon is a durable open source safety beacon/tracking for automotive and personal use. It uses GPS for precise location pinpointing, Bluet…
 
 <p align="center"><sub>
-⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->8 Nov 2026, 3:26 am IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
+⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->8 Nov 2026, 11:41 am IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
 </sub></p>
