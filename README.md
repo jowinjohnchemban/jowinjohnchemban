@@ -92,5 +92,5 @@ Outside work, I build personal projects: utility tools, system customisation, el
 - **[hashnode-client](https://github.com/jowinjohnchemban/hashnode-client)** · TypeScript — Typed, zero-dependency Hashnode GraphQL API client for Node.js, Next.js and edge runtimes, with webhook verification.
 
 <p align="center"><sub>
-⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->27 Nov 2026, 2:13 pm IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
+⚡ Refreshed every 6 hours by <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->28 Nov 2026, 2:54 am IST<!-- /stamp --> · <a href="https://github.com/jowinjohnchemban/jowinjohnchemban/fork">Fork it</a> to make your own
 </sub></p>
